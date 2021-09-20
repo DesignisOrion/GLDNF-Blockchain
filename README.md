@@ -16,6 +16,9 @@ precedingHash - points to the hash of the preceding block in the blockchain. Thi
 
 
 ## Installation
+
+Install Nodejs.
+Install crypto-js (https://www.npmjs.com/package/crypto-js)
 ```bash
 nodejs & npm
 npm install crypto-js
