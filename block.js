@@ -67,16 +67,16 @@ class gldnfBlockchain {
     console.log('Loading.......');
     gldnfCoin.addNewBlock(
         new CryptoBlock(1, "09/20/2021", {
-            sender: "Orion Ford",
-            recipient: "Micah Ford",
+            sender: "Orion",
+            recipient: "PERSON A",
             quantity: 50
         })
     );
 
     gldnfCoin.addNewBlock(
         new CryptoBlock (2, "09/20/2021", {
-            sender: "Kendra Spann",
-            recipient: "Maji Spann ",
+            sender: "Micah",
+            recipient: "PERSON B",
             quantity: 25 
         })
     );
