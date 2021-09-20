@@ -1,5 +1,7 @@
 # GLDNF BlockChain
 
+<img src="https://github.com/DesignisOrion/GLDNF-Blockchain/blob/main/img/thought-catalog-bj8U389A9N8-unsplash.jpg"/>
+
 Created a GLDNF Blockchain with a gldnf coin in which can be mined. Goal was to get a deeper insight of the blockchain development and cryptocurrency. For this blockchain I was able to review how to create the genesis block, obtaining the latest block, adding new blocks and testing the blockchain. 
 
 ## Terminology
